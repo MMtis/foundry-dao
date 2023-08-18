@@ -29,7 +29,7 @@ _Please note: ERC20 based voting is not always recommended, and I encourage you 
 ## Quickstart
 
 ```
-git clone https://github.com/Cyfrin/foundry-dao
+git clone https://github.com/maroutis/foundry-dao
 cd foundry-dao
 forge install
 forge build
